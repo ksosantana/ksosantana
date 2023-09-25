@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Oii, eu sou Kristhiam Santana 👋🏽
 
 <br>
