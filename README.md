@@ -11,12 +11,11 @@
 
 ## 👨🏽‍💻 Sobre Mim
 
-Sou apaixonado por tecnologia e desenvolvimento web. Tenho direcionado meus estudos para o desenvolvimento full stack, com foco em criar soluções práticas que unem eficiência, usabilidade e boa organização de código. 
+Sou profissional da área de Tecnologia da Informação, formado em Análise e Desenvolvimento de Sistemas e atualmente cursando pós-graduação em Redes Estruturadas de Computadores.
 
-Por meio de projetos pessoais, venho aplicando meus conhecimentos em HTML, CSS, JavaScript, Python e SQLite, sempre buscando implementar boas práticas e explorar novas tecnologias. 
+Tenho experiência e conhecimentos em suporte técnico, redes, infraestrutura, análise de sistemas e desenvolvimento de software. Ao longo da minha trajetória, venho trabalhando com resolução de problemas, manutenção de ambientes tecnológicos e busca por soluções eficientes.
 
-Acredito na evolução contínua através da prática e do aprendizado constante, e estou sempre em busca de novos desafios que me permitam crescer profissionalmente e colaborar em equipe.
-
+Tenho interesse em aprimorar continuamente minhas habilidades, explorar novas tecnologias e desenvolver projetos que unam conhecimento técnico e inovação.
 ---
 
 ## 🧠 Tecnologias que utilizo no dia a dia
