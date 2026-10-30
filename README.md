@@ -32,13 +32,15 @@ Tenho interesse em aprimorar continuamente minhas habilidades, explorar novas te
 
 ## 🚀 Projetos em Destaque
 
+ 🌦️ [Sistema de Previsão do Clima](https://github.com/ksosantana/Projeto-clima-previsao): Aplicação full stack que mostra dados meteorológicos como temperatura e previsão de chuva.
+  1º lugar em Feira de Extensão, com apresentação de demonstrações práticas e reais.
  🎬 [Projeto Trailer Mario Bros](https://ksosantana.github.io/Projeto_Mario/): Página com trailer e informações sobre o filme.
  ☠️ [Anime One Piece](https://ksosantana.github.io/One-Piece/): Introdução ao universo da série One Piece.
  ☕ [Cardápio Online - Joca's Coffee](https://ksosantana.github.io/Joca-s-Coffee/): Menu digital interativo para facilitar pedidos em uma cafeteria.
- 🌦️ [Sistema de Previsão do Clima](https://github.com/ksosantana/Projeto-clima-previsao): Aplicação full stack que mostra dados meteorológicos como temperatura e previsão de chuva.
 
 Esses e outros projetos demonstram minha evolução contínua e podem ser encontrados nos meus repositórios aqui no GitHub.
 
+Atualmente, sigo desenvolvendo novos projetos e aprimorando meus conhecimentos, com foco em suporte operacional, redes de computadores e infraestrutura de TI, buscando ampliar minha experiência prática e compartilhar minha evolução profissional.
 ---
 
 ## 📊 Estatísticas GitHub
